@@ -46,10 +46,4 @@
 
 </div>
 
-<h4>
-Minhas Redes:
-</h4>
-<a href="https://www.linkedin.com/in/mateus-duarte-aa2a1b1b3/" target="_blank"><img src="https://img.shields.io/badge/Mateus Duarte-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-
-&nbsp;
 
