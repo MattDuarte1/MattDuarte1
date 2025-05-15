@@ -53,10 +53,3 @@ Minhas Redes:
 
 &nbsp;
 
-
-<div>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mattduarte1&show_icons=true&locale=en&layout=compact" alt="mattduarte1" />
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mattduarte1&show_icons=true&locale=en" alt="mattduarte1" /></p>
-
-</div>
