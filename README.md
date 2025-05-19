@@ -2,9 +2,9 @@
 
 <h3 align="left">👩‍💻 Sobre mim:</h3>
 <ul align="left">
-<li>Cursando Análise e desenvolvimento de sistemas</li>
-<li>Apaixonado por Javascript ❤</li>
-<li>Focado em Front-End</li>
+<li>Formado em Análise e desenvolvimento de sistemas</li>
+<li>Apaixonado por Tecnologias ❤</li>
+<li>Sou FullStack</li>
 </ul>
 
 
